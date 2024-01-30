@@ -7,3 +7,8 @@ First phase of slotmachine onto terminal.
 5. Play again / Exit
    
 ![image](https://github.com/VeetiAuria/slotMachine/assets/127295067/df798af4-0bdd-4507-bf89-671bbccc339c)
+
+Here we can see a win.
+
+![image](https://github.com/VeetiAuria/slotMachine/assets/127295067/e43aa71f-4d6a-4449-a77b-9e1c200d0947)
+
